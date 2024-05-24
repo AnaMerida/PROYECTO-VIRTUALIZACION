@@ -1,7 +1,7 @@
 from firebase import firebase
 import pyrebase
 
-Connection = firebase.FirebaseApplication('https://virtualizacion-991a2-default-rtdb.firebaseio.com/', None)
+Connection = firebase.FirebaseApplication('#link', None)
 firebaseConfig ={#credenciales}
 
 while True:
