@@ -1,1 +1,4 @@
 # PROYECTO-VIRTUALIZACION
+
+Mar Rosado - 1070720
+Paola Mérida - 1084120
